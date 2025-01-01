@@ -1,4 +1,4 @@
-### Supercharging the React ecosystem via [TanStack](https://tanstack.com) with projects and products like:
+ ### Supercharging the React ecosystem via [TanStack](https://tanstack.com) with projects and products like:
 - 🤖 TanStack Query
 - 🤖 TanStack Table
 - 🤖 TanStack Router
